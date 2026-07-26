@@ -57,5 +57,28 @@ https://expense-tracker-app-csdo.onrender.com
 Swagger:
 https://expense-tracker-app-csdo.onrender.com/api-docs
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee14fa12-87e2-4dd9-82e9-d58875cd4da5" />
+🏠 Home Page :
+<img width="909" height="437" alt="image" src="https://github.com/user-attachments/assets/97cf4fa5-172d-4168-933b-16d86a0a8402" />
+
+
+🔐 Login Page:
+<img width="907" height="436" alt="image" src="https://github.com/user-attachments/assets/a9305a04-be39-43c5-9ef1-d332c402f3a6" />
+
+
+📝 Signup Page:
+<img width="908" height="434" alt="image" src="https://github.com/user-attachments/assets/b5f2eecc-b669-455b-8867-e7d89be2a0b6" />
+
+
+💰 Dashboard:
+<img width="894" height="420" alt="image" src="https://github.com/user-attachments/assets/a09bdee4-3f03-4102-910b-44c8bebc81e5" />
+
+🤖 AI Expense Parser:
+<img width="911" height="434" alt="image" src="https://github.com/user-attachments/assets/00cfb600-62c3-4f1b-8a64-f9604ed702ae" />
+
+
+📊 Insights:
+<img width="908" height="434" alt="image" src="https://github.com/user-attachments/assets/85e7df0f-3e7e-47a9-90bd-8c03f7e8a81d" />
+
+
+
 
