@@ -3,14 +3,12 @@ import { createRoot } from 'react-dom/client';
 import { BrowserRouter, Link, Navigate, Route, Routes, useLocation, useNavigate, useParams } from 'react-router-dom';
 import './styles.css';
 
-// const API = import.meta.env.VITE_API_URL || (location.hostname === 'localhost' ? 'http://localhost:5000/api' : 'https://expense-tracker-api-app.vercel.app/api');
-
 const API =
   import.meta.env.VITE_API_URL ||
   (location.hostname === "localhost"
     ? "http://localhost:5000/api"
     : "https://expense-tracker-app-csdo.onrender.com/api");
-    
+
 const categories = ['Groceries', 'Leisure', 'Electronics', 'Utilities', 'Clothing', 'Health', 'Others'];
 const money = n => new Intl.NumberFormat('en-IN', { style: 'currency', currency: 'INR', maximumFractionDigits: 2 }).format(Number(n || 0));
 const dateText = value => value ? new Date(value).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) : '';
