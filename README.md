@@ -42,3 +42,20 @@ For social sign-in, set `CLIENT_URL=http://localhost:5173` and `BACKEND_URL=http
 - Express + Node.js
 - React 19 + React Router + Vite
 - Tailwind CSS + Font Awesome
+
+- # Expense Tracker
+
+## Live Demo
+Live Link - https://expense-tracker-mr2pqnozy-ankit-yadavs-projects-4b006872.vercel.app/
+
+Frontend:
+https://your-vercel-url.vercel.app
+
+Backend API:
+https://expense-tracker-app-csdo.onrender.com
+
+Swagger:
+https://expense-tracker-app-csdo.onrender.com/api-docs
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee14fa12-87e2-4dd9-82e9-d58875cd4da5" />
+
